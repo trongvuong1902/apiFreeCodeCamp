@@ -1,3 +1,7 @@
 {
     "author": "Jane Doe",
+    "dependencies": {
+        "package-name": "version",
+        "moment": "^2.14.0"
+    }
 }
